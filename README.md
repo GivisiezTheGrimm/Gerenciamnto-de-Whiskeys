@@ -4,7 +4,7 @@
   Um projeto realizado em 2021 para aprender orientação a objetos onded foi planejado criar um sistema para listar e gerenciar esta lista de Whiskeys e as diferentes variedades deste produto.
 
 # Pré-Requisito:
-  Java Runtime Environment (JRE) versão 22 ou maior instalado em uma máquina.
+  Java Runtime Environment (JRE) versão 21 ou maior instalado em uma máquina.
   
 # Para executar o código:
 1.  Clone o repositório: `git clone https://github.com/GivisiezTheGrimm/Gerenciamnto-de-Whiskeys`
